@@ -1,0 +1,116 @@
+Ecossistema .NET
+
+	.NET - Plataforma de desenvolvimento com ferramentas, linguagens e bibliotecas que permite o desenvolvimento de diversos tipos de aplicacoes.
+	APS.NET - Framework que estende .NET para a criacao de aplicacoes web.
+
+
+Suporte ao Desenvolvedor
+
+	IDE mais utilizada e o Visual Studio Code (VsCode).
+	As linguagens mais utilizadas sao C#, F# e Visual Basic.
+	SDK (Software Development Kit) - Biblioteca para desenvolver apps.
+	Runtime - Biblioteca para executar apps desenvolvidos a partir do SDK.
+	NUGET - Gerenciador de pacotes.
+	ORM (Entity Framework Core) - Mapeador objeto relacional, permite ler um objeto (orientado a objeto) como tabela.
+	LINQ (Consulta integrada a linguagem) - Permite consultar dados no banco, arquivos e em memoria.
+	
+
+Sobre o ASP.NET
+	
+	Aplicacoes Web
+		Paginas Web.
+		REST APIs.
+		Microservices.
+		Hubs.
+
+	Processamento de requisisoes web (C# e F#).
+
+	Criacao de paginas da web de forma dinamica.
+
+	Biblicotecas para web patterns (MVC).
+
+	Sistema de autenticacao.
+
+	Extensoes para produtividade.
+
+
+.NET Framework
+
+	Ambiente de desenvolvimento e execucao focado em Windows.
+	
+	Common language runtime + .NET Class Library.
+
+	JIT (Just In Time Compiler).
+
+	Gerenciamento de memoria (Realoca memoria dinamicamente)
+
+	Grande e especificas bibliotecas de classes utilitarias (ASP.NET; ADO.NET; WCF; WPF),
+
+	Uso do .NET Standart.
+
+
+.NET
+
+	Plataforma cruzada: Linux, Windows e Mac OS.
+
+	Produzir um produto com base de codigo unica.
+
+	Open Source.
+
+	.NET = .NET Core + .NET Framework + Xamarin + Mono.
+
+	Aquicisao facilitada a partir do NUGET.
+
+	Modular e com melhor desempenho.
+
+	Ciclos de lancamentos mais rapidos (Facilitada pela modularizacao).
+
+
+
+ASP.NET
+
+	Construcoes de aplicacoes web, IoT apps e aplicacoes backend para mobile.
+
+	Funcionalidade para construcao de aplicacoes com renderizacao no servidor.
+
+	Uso do MVC -> ASP.NET Core MVC
+
+		Uso de Padrao MVC (Model-View-Controller)
+
+			1. Model: Representa o estado da aplicacao, encapsulando logica de negocio.
+			2. View: Responsavel por apresentar dados atravez de interface.
+			3. Controller: Componentes que lidam com a interacao do usuario a partir da 
+			View e trabalham com o Model para apresentar respostas ao usuario.
+
+			Model Binding: Mapeamento automatico de dados de requisicoes HTTP para paramentros de metodos de acao.
+			Model Validation: Validacao automatica no lado do cliente e servidor.
+
+	Razor Pages e Razor Markup
+			
+		Modelo baseado em paginas -> simplificado.
+		Interface e logica de negocios sao separados, mas dentro da pagina.
+		Sintaxe de marcacao paara inserir codigo baseado em .NET em paginas Web = Razor Markup + C# + HTML.
+
+		Tag Helpers
+
+			Permite que o codigo do lado do servidor participe da criacao e renderizacao de elementos HTML em arquivos Razor.
+
+			Experiencia de desenvolvimento com HTML mais amigavel.
+
+			IntelliSense no ambiente para sintaxe HTML e Razor.
+
+			Manutencao do codigo utilizando apenas informacoes do servidor.
+	
+	Funcionalidade para construcao de aplicacoes com renderizacao no cliente.
+
+		Blazor
+
+			Framework para contruir aplicativos do lado do cliente que sao 
+			executados direto no navegador com WebAssembly(WASM) usando C#.
+			
+			Uso de interoperabilidade com JavaScript para lidar com manipulacao da COM e chamadas de APIs.
+
+	Integracao com frameworks como Angular, React e BootStrap.
+	
+
+			
