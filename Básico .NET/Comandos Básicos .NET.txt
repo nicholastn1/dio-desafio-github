@@ -1,0 +1,37 @@
+Comandos (dotnet) :
+
+	dotnet --version (Mostra a versão do .NET instalado na máquina)
+	
+	dotnet --help (Lista comando que podem ser utilizados durante o desenvolvimento de uma aplicação)
+
+	dotnet --info (Mostra informações sobre o .NET que está presente na máquina e sobre o SO)
+
+	Runtime Options servem para executar aplicações .NET Core
+	
+Básicos:
+
+	dotnet add (Adiciona pacote ou referência no projeto)
+
+	dotnet new (Cria um novo projeto dentro do diretório atual)
+
+	dotnet nuget (Gerenciados de pacotes para .NET. Possibilita reutilizar ou disponibilizar pacotes publicamente).
+
+	dotnet publish (Sobe o site no servidor web se utilizado)
+
+	dotnet run (Compila e executa a aplicação)
+
+	dotnet test (Executa os testes da aplicação)
+
+	dotnet tool (Instala e gerencia ferramentas de extensão para o .NET)
+
+
+Mais utilizados:
+
+	dotnet new *tipo_de_aplicação* -n *nome_da_aplicação*
+
+	dotnet restore (Dentro do arquivo .csproj existem pacotes e são atualizados e instalados ao rodar esse comando)
+	
+	dotnet build (Compila os arquivos do projeto)
+	
+
+	
