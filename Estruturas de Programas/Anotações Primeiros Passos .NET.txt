@@ -1,0 +1,35 @@
+Tipos de Variáveis
+
+	Tipos de valor - Variáveis que contém seus próprios dados alocados em memória.
+
+		Numéricos: sbyte; short; int; lonh; byte; ushort; uint; ulong.
+
+		Caracteres Unicode: char.
+
+		Pontos flutuantes: float; double; decimal.
+
+		Booleano: bool.
+
+		enum, struct e tipos nullable (Exemplo int?)
+	
+	Tipos de referência - Não tem os dados dentro da variável, é guardada a referência de outro espaço na memória.
+		
+		Tipos de Classe: class; object; string.
+
+		Tipos de Array: int[]; int[,], etc.
+
+		interface, delegate.
+
+
+Instruções
+
+	Ações de programa que podem ser agrupados dentro de um contexto.
+
+		Declaração de variáveis e constantes, if, switch, while, do, for e foreach.
+
+		Break, continue, return, throw, try/catch/finally e using
+
+
+Arrays
+
+	

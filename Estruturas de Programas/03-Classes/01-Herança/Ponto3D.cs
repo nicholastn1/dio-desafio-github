@@ -9,11 +9,11 @@ namespace Classes.Herança
             CalcularDistancia();
         }
 
-        public static void Calcular()
+        public static void Calcular() // Para ser acessado de fora tem que chamar a partir da classe Ponto3D....
         {
             //Faz alguma coisa...
         }
-        public override void CalcularDistancia3()
+        public override void CalcularDistancia3() // Sobrescreve o metodo se possuir o "virtual".
         {
             //Faz outra coisa ...
             base.CalcularDistancia3();

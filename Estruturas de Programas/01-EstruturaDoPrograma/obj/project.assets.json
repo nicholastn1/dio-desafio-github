@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicho\\.nuget\\packages\\": {}
+    "C:\\Users\\Nicholas_2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\Projetos\\dio-desafio-github\\Estruturas de Programas\\01-EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
       "projectName": "EstruturaDoPrograma",
       "projectPath": "D:\\Projetos\\dio-desafio-github\\Estruturas de Programas\\01-EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
-      "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Nicholas_2\\.nuget\\packages\\",
       "outputPath": "D:\\Projetos\\dio-desafio-github\\Estruturas de Programas\\01-EstruturaDoPrograma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Nicholas_2\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

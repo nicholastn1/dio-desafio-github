@@ -13,7 +13,7 @@ namespace Classes.Metodos
         {
             int i = 1, j = 2;
             Inverter(ref i, ref j);
-            System.Console.WriteLine($"{i} {j}");    // Escreve "2 1"
+            System.Console.WriteLine($"{i} {j}"); // Escreve "2 1"
         }
     }
 }

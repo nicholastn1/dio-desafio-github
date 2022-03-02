@@ -1,0 +1,13 @@
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+D:\Projetos\dio-desafio-github\Estruturas de Programas\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
